@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=About
+Comment=View information about your system
+Exec=/usr/bin/BubblePaint.jar
+Icon=/usr/share/icons/bąbelki.png
+Terminal=false
+Type=Application
+NoDisplay=true
+StartupNotify=true
+Categories=GNOME;GTK;Settings;X-GNOME-Settings-Panel;X-GNOME-DetailsSettings;
+OnlyShowIn=GNOME;Unity;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnome-control-center
+X-GNOME-Bugzilla-Component=info
+X-GNOME-Bugzilla-Version=3.28.2
+Keywords=device;system;information;memory;processor;version;default;application;preferred;cd;dvd;usb;audio;video;disc;removable;media;autorun;
+X-Ubuntu-Gettext-Domain=gnome-control-center-2.0
+Name[pl_PL]=BubblePaint
+Comment[pl_PL.UTF-8]=BubblePaint
+GenericName[pl_PL.UTF-8]=BubblePaint
